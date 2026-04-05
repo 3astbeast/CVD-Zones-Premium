@@ -17,6 +17,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/CVD-Zones-Premium/refs/heads/main/MGC_2Minute_20260405_162452.png" width="800" alt="RedTail Toolbar Screenshot"/>
+</p>
+
+---
+
 ## Credit
 
 Original TradingView Pine Script by **[B3AR_Trades](https://www.tradingview.com/u/B3AR_Trades/)**. NinjaTrader 8 conversion by **[@_hawkeye_13](https://twitter.com/_hawkeye_13)** (RedTail Indicators).
