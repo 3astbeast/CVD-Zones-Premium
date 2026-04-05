@@ -105,19 +105,6 @@ The companion indicator (CVDZonesPremiumCompanion) mirrors the CVD heatmap onto 
 
 ---
 
-## Installation
-
-Both `.cs` files must be installed — the companion depends on types defined in the main indicator.
-
-1. Download both `CVDZonesPremium.cs` and `CVDZonesPremiumCompanion.cs`
-2. Copy both files to `Documents\NinjaTrader 8\bin\Custom\Indicators`
-3. Open NinjaTrader (if not already open)
-4. In Control Center, go to **New → NinjaScript Editor**
-5. Click the **Compile** button — both indicators will compile together
-6. Add CVDZonesPremium to your source chart, then add CVDZonesPremiumCompanion to any other chart for the same instrument
-
----
-
 ## Part of the RedTail Indicators Suite
 
 This indicator is part of the [RedTail Indicators](https://github.com/3astbeast/RedTailIndicators) collection — free NinjaTrader 8 tools built for futures traders who demand precision.
